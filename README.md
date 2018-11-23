@@ -24,4 +24,6 @@ A project that creates squads and assigns heroes to those squads depending on th
 
 The site is hosted at Heroku. Visit [https://fierce-gorge-45867.herokuapp.com](https://fierce-gorge-45867.herokuapp.com)
 
+Project completed on May.
+
 
